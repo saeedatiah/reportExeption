@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\bin\Debug\testHandleException.exe.config
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\bin\Debug\testHandleException.exe
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\bin\Debug\testHandleException.pdb
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\App.g.cs
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException_MarkupCompile.cache
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException_MarkupCompile.lref
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.g.resources
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.Properties.Resources.resources
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.csproj.GenerateResource.cache
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.exe
+C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\obj\Debug\testHandleException.pdb

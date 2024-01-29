@@ -1,0 +1,21 @@
+﻿<Window
+    x:Class="testHandleException.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:testHandleException"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <StackPanel>
+        <TextBlock Text="عند كتابة نص الضغط على submit يتم اسناد النص الى قيمة decemal وهنا يحدث الخطأ" />
+        <TextBox x:Name="txt" />
+        <Button Click="Button_Click" Content="submit" />
+        <TextBlock>
+            <TextBlock x:Name="msg" />
+            <Button Click="Button_Click_1" Content="open folder" />
+        </TextBlock>
+    </StackPanel>
+</Window>

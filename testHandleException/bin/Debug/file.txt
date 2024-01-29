@@ -1,0 +1,4 @@
+Exeption:تنسيق سلسلة الإدخال غير صحيح. ; File NameC:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\MainWindow.xaml.cs ; Method Name : Button_Click  ;  Line : 58
+Exeption:تنسيق سلسلة الإدخال غير صحيح. ; File NameC:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\MainWindow.xaml.cs ; Method Name : Button_Click  ;  Line : 58
+Exeption:تنسيق سلسلة الإدخال غير صحيح. ; File NameC:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\MainWindow.xaml.cs ; Method Name : Button_Click  ;  Line : 58
+Exeption:تنسيق سلسلة الإدخال غير صحيح. ; File Name : C:\Users\user\Desktop\saeed\NewERP\testHandleException\testHandleException\MainWindow.xaml.cs ; Method Name : Button_Click  ;  Line : 58
